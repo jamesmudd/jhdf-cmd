@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: io.jhdf
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [ annotation-api, app-name, graalvm, gradle, jackson-databind, junit, kotlin, kotlin-build, kotlin-extension-functions, micronaut-build, picocli, picocli-junit, picocli-kotlin-application, readme, shade, slf4j-simple, yaml ]
